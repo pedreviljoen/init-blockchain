@@ -1,0 +1,15 @@
+{
+  "name": "pow-blockchain",
+  "version": "1.0.0",
+  "description": "Simple proof of work blockchain demo",
+  "main": "pow.js",
+  "scripts": {
+    "test": "node pow.js"
+  },
+  "author": "Pedre",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "hex-to-binary": "^1.0.1"
+  }
+}

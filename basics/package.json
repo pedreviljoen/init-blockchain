@@ -1,0 +1,14 @@
+{
+  "name": "basic-blockchain",
+  "version": "1.0.0",
+  "description": "Simple blockchain demo",
+  "main": "block.js",
+  "scripts": {
+    "test": "node block.js"
+  },
+  "author": "Pedre",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
