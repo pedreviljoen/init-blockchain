@@ -1,2 +1,2 @@
-./basics/node_modules/**
-./pow/node_modules/**
+basics/node_modules/**
+pow/node_modules/**
