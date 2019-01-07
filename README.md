@@ -1,5 +1,7 @@
 # init - Blockchain
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pedreviljoen/init-blockchain.svg)](https://greenkeeper.io/)
+
 <div align="center">
   <img src="assets/init_logo.jpg" width="70%">
 </div>
